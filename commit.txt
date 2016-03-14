@@ -1,0 +1,17 @@
+commit 0861611307d99772e20f02918eab0aef949a9a5b
+Author: roberto <robertoalexgv@outlook.com>
+Date:   Wed Feb 17 12:41:27 2016 -0600
+
+    commit de la segunda modificacion.
+
+commit bda8f05ff9e7431ed7bd5d87e401bebbb088d4f4
+Author: roberto <robertoalexgv@outlook.com>
+Date:   Wed Feb 17 12:38:20 2016 -0600
+
+    se hizo commit a la primera modificacion.
+
+commit 9645a84a8b962ffe90d4ba23bcaad84614012d2c
+Author: roberto <robertoalexgv@outlook.com>
+Date:   Wed Feb 17 12:35:49 2016 -0600
+
+    inicio
